@@ -1,8 +1,8 @@
 - [x] Avance proyecto Programación II ✅ 2024-09-07
 - [ ] Parcial DPWEB
-- [ ] Guía 3 DPWEB
-- [ ] Guía 4 DPWEB
-- [ ] Guía 5 DPWEB
+- [x] Guía 3 DPWEB ✅ 2024-09-09
+- [x] Guía 4 DPWEB ✅ 2024-09-09
+- [x] Guía 5 DPWEB ✅ 2024-09-09
 - [ ] Guía Matematicas 
 - [ ] Prototipo
 - [ ] Repartir Guías y avance de proyecto DPWEB
