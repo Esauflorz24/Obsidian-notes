@@ -1,0 +1,1 @@
+informacion de una dbms
