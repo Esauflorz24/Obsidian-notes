@@ -3,4 +3,4 @@
 - [x] Practica DataSource ✅ 2024-09-10
 - [ ] Estudiar para parciales
 - [ ] Terminar practica progra
-- [ ] calistenia
+- [x] calistenia ✅ 2024-09-11
