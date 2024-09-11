@@ -2,5 +2,5 @@
 - [x] Avanzar Practica ASP.NET DataSource ✅ 2024-09-09
 - [x] Practica DataSource ✅ 2024-09-10
 - [ ] Estudiar para parciales
-
-
+- [ ] Terminar practica progra
+- [ ] calistenia
