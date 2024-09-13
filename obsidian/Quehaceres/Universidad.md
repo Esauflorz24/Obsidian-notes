@@ -1,5 +1,5 @@
 
-- [ ] Parcial DPWEB
+- [x] Parcial DPWEB ✅ 2024-09-13
 - [ ] Guia 4 DPWEB
 - [ ] Guía Matematicas 
 - [ ] Prototipo
