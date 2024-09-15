@@ -1,6 +1,6 @@
 
 - [x] Parcial DPWEB ✅ 2024-09-13
-- [ ] Guia 4 DPWEB
+- [x] Guia 4 DPWEB ✅ 2024-09-15
 - [ ] Guía Matematicas 
 - [ ] Prototipo
 - [ ] Tarea Física 
