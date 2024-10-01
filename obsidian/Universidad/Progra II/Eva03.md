@@ -17,3 +17,15 @@ Las vistas se encargan de presentar el contenido a través de la interfaz de usu
 ## ¿Cuál es la responsabilidad del controlador?
 
 Se encargan de controlar la interacción del usuario, trabajan con el modelo y en la ultima instancia, seleccionan una vista para presentarla. En una aplicación de MVC, la vista solo muestra información; el controlador controla y responde a la interacción y los datos que introducen los usuarios. En el patrón de MVC, el controlador es el punto de entrada inicial que se encarga de seleccionar con que tipos de modelo trabajar y que vistas representar.
+
+
+## Síntesis
+
+MVC es un patrón de diseñó o una arquitectura de software donde se separa el código en tres componentes, Modelo, vistas y controlador, permitiendo que el código sea mas escalable.
+
+El modelo contiene toda la lógica del programa, su estructura, el manejo y solicitudes a una base de datos. Contiene métodos para que se puedan interactuar directamente con los datos proporcionados.
+
+La vista no es nada mas que la interfaz grafica, proporciona al usuario los datos retornados por el modelo. en ASP.NET core las vistas se definen en Razor Pages , que permiten mezclar código HTML con la sintaxis C#.
+
+
+El controlador es el flujo central del programa, es  un intermediario el cual recibe las solicitudes del cliente. Si el cliente requiere visualizar los datos, el controlador interactúa con el modelo para obtenerlos, y finalmente seleccionar una vista con la cual presentar los resultados, una vez hecho todo este proceso el controlador devuelve la solicitud al usuario para que se puedan visualizar los datos.
