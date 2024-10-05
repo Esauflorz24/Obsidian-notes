@@ -18,6 +18,5 @@ las capas de este modelo son:
 - Capa de proceso (servidor web): recibe los datos de la capa de presentación,los procesa para posteriormente interactuar con la capa de datos y realizar las operaciones de negocios correspondientes.
 
 - Capa de datos: almacena datos.
-
 ### ¿Que es ASP.NET?
 
